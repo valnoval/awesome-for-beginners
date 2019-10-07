@@ -76,6 +76,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Docker/CLI](https://github.com/docker/cli/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> The Docker CLI
 - [Kubernetes](https://github.com/kubernetes/kubernetes/labels/good%20first%20issue) _(label: good first issue)_ <br> Production-Grade Container Scheduling and Management System
 - [TiDB](https://github.com/pingcap/tidb/labels/for%20new%20contributors) _(label: for new contributors)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
+- [sampler](https://github.com/sqshq/sampler/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) _(label: good first issue)_ <br> A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. https://sampler.dev
 
 ## Java
 
